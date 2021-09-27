@@ -1,12 +1,36 @@
 /* logo */
 .logo {
-  background-image: image("..\img\pattern.png");
+  background-image: url(../img/pattern.png);
+  background-color:mediumturquoise;
+  height: 150px;
 }
-
+div>img {
+   margin-top:60px;
+}
 /* fine logo */
 
-/* sottotitolo */
+/* titolo */
+h1 {
+  font-size: 50px;
+  font-weight:900;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+/* fine titolo */
 
-
-
+/* sottotitolo DA MODIFICARE */
+.subtitle{
+  color: gray;
+  font-weight: 600;
+  font-family: 'Times New Roman', Times, serif
+}
+.subtitleblue {
+  color:mediumturquoise;
+}
 /* fine sottotitolo */
+
+/* immagini principali */
+.imagesprincipal {
+  width: auto;
+  height: 500px;
+}
+/* fine immagini principoali */
