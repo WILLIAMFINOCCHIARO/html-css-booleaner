@@ -41,10 +41,24 @@ h1 {
 }
 /* fine paragrafo del main */
 
-/* tabella del main DA MODIFICARE */
-tr {
-  line-height: 50px;
+/* lista del main  */
+ul {
+  margin-left: -20px;
 }
+/* fine lista del main */
+
+/* tabella del main DA MODIFICARE */
+table {
+  border-collapse: collapse;
+  border-spacing: 30px;
+  width: 100%;
+}
+
+td {
+  height: 50px;
+  width:30px;
+}
+
 thead {
   background-color: blue;
   color: white;
