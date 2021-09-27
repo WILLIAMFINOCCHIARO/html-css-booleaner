@@ -33,4 +33,47 @@ h1 {
   width: auto;
   height: 500px;
 }
-/* fine immagini principoali */
+/* fine immagini principali */
+
+/* paragrafo del main  */
+.yellowrite {
+  background-color: yellow;
+}
+/* fine paragrafo del main */
+
+/* tabella del main DA MODIFICARE */
+tr {
+  line-height: 50px;
+}
+thead {
+  background-color: blue;
+  color: white;
+}
+.medium {
+  background-color: mediumturquoise;
+}
+
+/* fine tabella del main */
+/* inizio footer  */
+.startfooter {
+  color: gray;
+  font-weight: 600;
+}
+
+.footerwriter {
+  background-image: url(../img/monitor.jpg);
+  width: 300px;
+  height: 200px;
+}
+.footerwritertwo {
+  background-image: url(../img/graph.jpg);
+  width: 300px;
+  height: 200px;
+}
+.writerwhite {
+  color: white;
+  font-weight: 600;
+  margin:5px 30px;
+}
+
+/* fine footer */
