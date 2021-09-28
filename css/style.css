@@ -1,4 +1,4 @@
-/* logo */
+/*logo*/
 .logo {
   background-image: url(../img/pattern.png);
   background-color:mediumturquoise;
@@ -7,7 +7,7 @@
 div>img {
    margin-top:60px;
 }
-/* fine logo */
+/*fine logo*/
 
 /* titolo */
 h1 {
@@ -21,7 +21,8 @@ h1 {
 .subtitle{
   color: gray;
   font-weight: 600;
-  font-family: 'Times New Roman', Times, serif
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: -30px;
 }
 .subtitleblue {
   color:mediumturquoise;
@@ -62,6 +63,7 @@ td {
 thead {
   background-color: blue;
   color: white;
+  text-align: left;
 }
 .medium {
   background-color: mediumturquoise;
